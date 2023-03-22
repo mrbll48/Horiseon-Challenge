@@ -8,13 +8,9 @@ Refer to the screenshot below for a sample view of completed webpage
 ![plot](./Assets/01-html-css-git-homework-demo.png)
 
 ## Usage
-Website has navigation bar at the top of the website. Each link takes you to a section of the website when clicked. 
-
-
-## Credits
-
+Website has navigation bar at the top of the website; each link takes you to a section of the website when clicked. Website contains information about what services Horiseon provides. 
 
 ## License
-
+MIT
 
 ---
