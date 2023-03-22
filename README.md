@@ -5,6 +5,12 @@ The original html code for the index.html file had a few issues in terms of acce
 
 Full list of changes made to index.html:
 * Added title to webpage
+* Changed all non semantic HTML elements to semantic HTML elements (div -> section or article, span ->strong)
+* Added alt tags for all images on the page
+* Reordered heading elements to follow sequential order
+* Renamed the necessary class selectors in style.css to match the new semantic HTML tags 
+* Changed the class selector to id selector for the navigation bar at the top of the webpage to ensure link functionality
+* Renamed the footer h4 class selector to match the sequential order on index.html
 
 
 
