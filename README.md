@@ -21,6 +21,9 @@ Refer to the screenshot below for a sample view of completed webpage
 ## Usage
 Website has navigation bar at the top of the website; each link takes you to a section of the website when clicked. Website contains information about what services Horiseon provides. 
 
+##
+Used MDN and W3Schools to help identify semantic HTML elements. 
+
 ## License
 MIT
 
